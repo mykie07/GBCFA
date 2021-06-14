@@ -1,2 +1,3 @@
 # NEO4J+NLP for GBCFA
 ## GBCFA=Graph-Based Customer Feedback Analysis
+Beyond simple sentiment classification and tallying, product design experts require a way to interrogate a corpus of customer feedback in manner akin to conducting an interview. Our work places emphasis on analysis to provide a solution that grants more flexibility to product design experts as they examine customer feedback. Previous research have approached the problem of applying opinion to product by emphasizing on sentiment classification whiles reducing the “analysis” component in sentiment analysis to simple product aspect opinion tallies.
