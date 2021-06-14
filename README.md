@@ -7,6 +7,7 @@ Beyond simple sentiment classification and tallying, product design experts requ
 
 1.	Nodes: review, sentence, keyword, aspect class 
 2.	Relationships: 
-*	(Review)-[:HAS_SENTENCE]->(Sentence)
-*	(Sentence)-[:HAS_OPINION_ON]->(Keword)
-*	(Keyword)-[:BELONGS_TO]->(Class)
+  *	(Review)-[:HAS_SENTENCE]->(Sentence)
+  *	(Sentence)-[:HAS_OPINION_ON]->(Keword)
+  *	(Keyword)-[:BELONGS_TO]->(Class) : Example --6.	BATTERY=["battery","recharging","battries", "recharge","power unit", "power_unit", "electric”, cell","electric_cell","cell","cells", "electric_battery","power cell"]
+3. 
