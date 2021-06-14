@@ -1,2 +1,2 @@
-# GBCFA
-## Graph-Based Customer Feedback Analysis
+# NEO4J+NLP for GBCFA
+## GBCFA=Graph-Based Customer Feedback Analysis
