@@ -13,4 +13,4 @@ Beyond simple sentiment classification and tallying, product design experts requ
 3. (Class)-[:CO_OPINION]->(Class) : This implies two classes have been mentioned together in a comment/review/statement. Example--"The wifi speed is great but the screen is not bright enough."
 
 
-![Subgraph of review with ID="2456"](FIG5_review2456_sub_graph.jpg)
+![Subgraph of review with ID="2456"](FIG5_review2456_sub_graph.jpg =100x)
