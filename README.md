@@ -14,3 +14,5 @@ Beyond simple sentiment classification and tallying, product design experts requ
 
 
 ![Subgraph of review with ID="2456"](FIG5_review2456_sub_graph.jpg){ width=50% }
+
+<img src="FIG5_review2456_sub_graph.jpg" width="50" height="50">
