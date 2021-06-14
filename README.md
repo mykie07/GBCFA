@@ -9,5 +9,5 @@ Beyond simple sentiment classification and tallying, product design experts requ
 2.	Relationships: 
   *	(Review)-[:HAS_SENTENCE]->(Sentence)
   *	(Sentence)-[:HAS_OPINION_ON]->(Keword)
-  *	(Keyword)-[:BELONGS_TO]->(Class) : Example --.	```BATTERY=["battery","recharging","battries", "recharge","power unit", "power_unit", "electric”, cell","electric_cell","cell","cells", "electric_battery","power cell"]```
+  *	(Keyword)-[:BELONGS_TO]->(Class) : Example, the BATTERY aspect class can consist of the following Keywords --.	```BATTERY=["battery","recharging","battries", "recharge","power unit", "power_unit", "electric”, cell","electric_cell","cell","cells", "electric_battery","power cell"]```
 3. (Class)-[:CO_OPINION]->(Class) : This implies two classes have been mentioned together in a comment/review/statement. Example--"The wifi speed is great but the screen is not bright enough."
