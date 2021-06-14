@@ -1,0 +1,4 @@
+1. absapi_sentiment_extractor.py:  contains the implementation sentiment aggregator (Algorithm 2)
+
+2. absapi_aspect_class_prediction_engine.py: where a multiclass prediction model has been built from the
+    weak supervision based dataset, this file's code be used to classify the sentences of the new customer feedback.
